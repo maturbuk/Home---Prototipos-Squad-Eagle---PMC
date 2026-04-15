@@ -5,7 +5,7 @@ Repositório central de protótipos e documentações táticas desenvolvidas par
 
 ---
 
-## 🛠 Deploys: Squad Eagle (Cajamar)
+## 🛠 Protótipos: Squad Eagle (Cajamar)
 Projetos focados em acessibilidade e serviços ao cidadão.
 
 | Projeto | Descrição | Link de Acesso |
